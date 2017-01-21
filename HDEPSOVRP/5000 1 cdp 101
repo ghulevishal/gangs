@@ -1,0 +1,33 @@
+
+Multi objective HDEPSO Algorithm
+
+Population Size::::10
+Number of Dimensions::::100
+Number of Iterations::::5000
+Distance =2431
+
+Number of Vehicles =9
+
+Makespan =264
+
+waiting Time =0
+
+Delay Time =990
+
+Weighted Sum Approach=1775.800000
+
+Total Time=56.566956
+
+Vechile no::0	=0	 6	 4	 77	 86	 53	 1	 74	 73	0
+Vechile no::1	=0	 5	 43	 38	 94	 64	 3	 33	 56	 80	0
+Vechile no::2	=0	 23	0
+Vechile no::3	=0	 55	 84	 52	 99	 10	 34	 45	 68	 4	0
+Vechile no::4	=0	 49	0
+Vechile no::5	=0	 9	 90	 35	 11	 70	 27	 40	 15	 13	 76	0
+Vechile no::6	=0	 2	0
+Vechile no::7	=0	 51	 96	 30	 72	 44	 91	 22	0
+Vechile no::8	=0	 22	 7	 98	 97	 65	 61	 1	 86	 20	 69	 31	0
+Vechile no::9	=0	 46	 76	 17	 31	 25	 79	 5	0
+Vechile no::10	=0	 37	 92	 88	 16	 93	 15	0
+Vechile no::11	=0	 62	 53	 78	 63	 82	 48	 77	 36	 96	0
+Vechile no::12	=0	 12	 87	 60	 19	 42	 28	 80	 71	 18	 57	0
